@@ -1,0 +1,19 @@
+body{
+    margin-top: 55px;
+}
+p{
+    width: 450px;
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+button{
+    border-radius: 4px;
+    padding: 6px;
+    background-color: aliceblue;
+    border-color: black;
+}
+.inputButton{
+display: flex;
+align-items: center;
+justify-content: center;
+}
