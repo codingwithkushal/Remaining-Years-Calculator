@@ -13,7 +13,7 @@ function totalYears(age) {
     var weeks = remaining * 52;
     var months = remaining * 12;
     var year  = remaining * 1;
-    alert("You have " + days + " days, " + weeks + " weeks, " + months + " months " + year + " and year to live.");
+    alert("You have " + days + " days, " + weeks + " weeks, " + months + " months and " + year + "  year to live.");
 }
 
 document.getElementById("calculateButton").addEventListener("click", function() {
